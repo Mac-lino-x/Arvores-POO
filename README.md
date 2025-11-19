@@ -115,7 +115,6 @@ Melhor tratamento de respostas (ex.: aceitar “sim”, “nao”, “s”, “n
 Completar ramos faltantes da árvore.
 
 🖥 Exemplo de Execução
-mathematica
 
 🎉 BEM-VINDO ao Adivinha-Animal-Simples! 🎉
 Pense em um dos animais da lista inicial (Sapo, Salamandra, Cachorro, Rato).
